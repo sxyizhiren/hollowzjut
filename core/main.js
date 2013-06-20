@@ -49,6 +49,10 @@ var foots={
         params:[
             874831347   //树洞zjut的相册id
         ]
+    },
+    ctrl:{
+        exec:require('../lib/Foots/ctrlFoot').Foot,
+        params:[]
     }
 };
 
