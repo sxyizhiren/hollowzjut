@@ -44,6 +44,10 @@ var foots={
         exec:require('../lib/Foots/postFoot').Foot,
         params:[]
     },
+    weibo:{
+        exec:require('../lib/Foots/weiboFoot').Foot,
+        params:[]
+    },
     imageUpload:{
         exec:require('../lib/Foots/imageUploadFoot').Foot,
         params:[
