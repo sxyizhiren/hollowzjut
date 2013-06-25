@@ -1,0 +1,147 @@
+{
+    "email": "451649203@qq.com",
+    "passwd": "qq.com",
+    "Cookie": {
+        "store": {
+            "idx": {
+                "renren.com": {
+                    "/": {
+                        "anonymid": {
+                            "key": "anonymid",
+                            "value": "hidfwljqvt4iyl",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "expires": "Infinity",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z"
+                        },
+                        "_de": {
+                            "key": "_de",
+                            "value": "256EF5A758B15B21340E4CEC836F3769696BF75400CE19CC",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "expires": "Infinity",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z"
+                        },
+                        "p": {
+                            "key": "p",
+                            "value": "da94f2eb4bd59e00c93cb6d936c117086",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z",
+                            "expires": "Infinity"
+                        },
+                        "first_login_flag": {
+                            "key": "first_login_flag",
+                            "value": "1",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z",
+                            "expires": "Infinity"
+                        },
+                        "t": {
+                            "key": "t",
+                            "value": "f97f53591f69d13cc337118d29606d466",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z",
+                            "expires": "Infinity"
+                        },
+                        "societyguester": {
+                            "key": "societyguester",
+                            "value": "f97f53591f69d13cc337118d29606d466",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z",
+                            "expires": "Infinity"
+                        },
+                        "id": {
+                            "key": "id",
+                            "value": "2020797996",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z",
+                            "expires": "Infinity"
+                        },
+                        "xnsid": {
+                            "key": "xnsid",
+                            "value": "835ca792",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z",
+                            "expires": "Infinity"
+                        },
+                        "loginfrom": {
+                            "key": "loginfrom",
+                            "value": "null",
+                            "domain": "renren.com",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": false,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z"
+                        }
+                    },
+                    "/xtalk": {
+                        "t": {
+                            "key": "t",
+                            "value": "1cdcd2dee637aa2bd3d49aa251ec4b05",
+                            "domain": "renren.com",
+                            "path": "/xtalk",
+                            "creation": null,
+                            "hostOnly": null,
+                            "lastAccessed": null,
+                            "expires": "Infinity"
+                        }
+                    }
+                },
+                "www.renren.com": {
+                    "/": {
+                        "feedType": {
+                            "key": "feedType",
+                            "value": "601715540_hot",
+                            "domain": "www.renren.com",
+                            "path": "/",
+                            "expires": "2013-07-25T18:41:46.000Z",
+                            "creation": null,
+                            "hostOnly": false,
+                            "lastAccessed": "2013-06-25T18:41:50.512Z"
+                        },
+                        "JSESSIONID": {
+                            "key": "JSESSIONID",
+                            "value": "abcD-Gw1D6nG8dAJ1O89t",
+                            "path": "/",
+                            "creation": null,
+                            "hostOnly": true,
+                            "domain": "www.renren.com",
+                            "lastAccessed": "2013-06-25T18:41:50.512Z",
+                            "expires": "Infinity"
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "isPage": "true",
+    "logined": true,
+    "token": {
+        "requestToken": "-652778036",
+        "_rtk": "a4d86426"
+    },
+    "homeUrl": "http://www.renren.com/601715540",
+    "uid": "601715540"
+}

@@ -1,4 +1,4 @@
-//如果要输验证码的话，直接调目标文件，不要从这里进入
+﻿//如果要输验证码的话，直接调目标文件，不要从这里进入
 
 
 function start(jsName)
@@ -22,4 +22,4 @@ function start(jsName)
 
 }
 
-start('core/main.js');
+start('example.js');
